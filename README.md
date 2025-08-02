@@ -27,7 +27,7 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1] https://github.com/ASTOcommmits/useless-projects/blob/main/Screenshot%202025-08-02%20050825.png?raw=true
+![Screenshot1] (https://github.com/ASTOcommmits/useless-projects/blob/main/Screenshot%202025-08-02%20050825.png)
 Initial interface
 
 ![Screenshot2] https://github.com/ASTOcommmits/useless-projects/blob/main/Screenshot%202025-08-02%20050910.png?raw=true
