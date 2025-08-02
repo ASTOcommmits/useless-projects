@@ -30,7 +30,7 @@ For Software:
 ![Screenshot1] https://github.com/ASTOcommmits/useless-projects/blob/main/Screenshot%202025-08-02%20050825.png?raw=true
 Initial interface
 
-![Screenshot2]Screenshot 2025-08-02 050910
+![Screenshot2] https://github.com/ASTOcommmits/useless-projects/blob/main/Screenshot%202025-08-02%20050910.png?raw=true
 Interface when the button is clicked
 
 ![Screenshot3]Screenshot 2025-08-02 051002
