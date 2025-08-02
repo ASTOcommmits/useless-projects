@@ -2,16 +2,10 @@
 
 
 # [Project Name] 🎯
-
+The Ultimate Do-nothing button
 
 ## Basic Details
-### Team Name: [Name]
-
-
-### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Lead: Aman S Thomas - Mar Baselios Christian College of Engineeringand Technology
 
 ### Project Description
 The Ultimate Do-nothing button
@@ -28,14 +22,6 @@ To efficently waste your free time
 For Software:
 - HTML,CSS,JavaScript
 - GUI Interface
-
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
 
 ### Project Documentation
 For Software:
