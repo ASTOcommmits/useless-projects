@@ -30,10 +30,10 @@ For Software:
 ![Screenshot1](https://github.com/ASTOcommmits/useless-projects/blob/main/Screenshot%202025-08-02%20050825.png)
 Initial interface
 
-![Screenshot2] https://github.com/ASTOcommmits/useless-projects/blob/main/Screenshot%202025-08-02%20050910.png?raw=true
+![Screenshot2](https://github.com/ASTOcommmits/useless-projects/blob/main/Screenshot%202025-08-02%20050910.png?raw=true)
 Interface when the button is clicked
 
-![Screenshot3] https://github.com/ASTOcommmits/useless-projects/blob/main/Screenshot%202025-08-02%20051002.png?raw=true
+![Screenshot3](https://github.com/ASTOcommmits/useless-projects/blob/main/Screenshot%202025-08-02%20051002.png?raw=true)
 Additional Information
 
 
